@@ -7,6 +7,9 @@ app.get('/', (req, res) => {
 	res.json([{
 		user_id: '1',
 		user_name: 'Vivek Chaudhary'
+	},{
+		user_id: '2',
+		user_name: 'Neha Chaudhary'
 	}]);
 });
 
