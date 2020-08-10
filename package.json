@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vivek9716/gitjenkinsdemo/issues"
   },
-  "homepage": "https://github.com/vivek9716/gitjenkinsdemo#readme"
+  "homepage": "https://github.com/vivek9716/gitjenkinsdemo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
