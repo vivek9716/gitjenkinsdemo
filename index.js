@@ -16,6 +16,9 @@ app.get('/', (req, res) => {
 	},{
 		user_id: '4',
 		user_name: 'Ashwini'
+	},{
+		user_id: '5',
+		user_name: 'Jitesh'
 	}]);
 });
 
